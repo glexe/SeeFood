@@ -1,5 +1,5 @@
 # SeeFood
-| ![Screenshot](Img/screenshot1.png) | ![Screenshot](Img/screenshot2.png) |
+| ![Screenshot](imn/screenshot1.png) | ![Screenshot](img/screenshot2.png) |
 | :--------------------------------: | :--------------------------------: |
 
 ## Description
